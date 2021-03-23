@@ -2,4 +2,4 @@
 Repository for Architecture Detection Capstone
 
 The 75 piece set is here, the 150 set will not be as uploading it will be miserable.
-The modles are saved in the modles folder.
+The models are saved in the models folder.
